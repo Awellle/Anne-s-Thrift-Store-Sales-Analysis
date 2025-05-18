@@ -33,8 +33,7 @@ These are the KPIs:
 
 **Trends and Patterns**
 
-![Hospital Emergency Room Analysis Dashboard](https://github.com/Awellle/Hospital-Emergency-Room-Analysis/blob/main/Hospital%20Emergency%20Room%20Analysis%20Dashboard.png)
-
+![Anne's Thrift Store Analysis Dashboard](https://github.com/Awellle/Anne-s-Thrift-Store-Sales-Analysis/blob/main/ANNE'S%20THRIFT%20STORE%20SALES%20ANALYSIS%20DASHBOARD.png)
 
 
 **Key Findings**
